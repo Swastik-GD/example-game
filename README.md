@@ -1,2 +1,4 @@
 # example-game
-this a test repository
+This a test repository
+
+I Asus Laptop
